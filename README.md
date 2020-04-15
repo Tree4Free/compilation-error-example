@@ -1,6 +1,6 @@
 # Compilation Error Example
 
-The following code produces a compilation error:
+The following code in the com.schuetz.Context class produces a compilation error:
 
 ```kotlin
 package com.schuetz
